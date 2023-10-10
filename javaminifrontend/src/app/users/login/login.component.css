@@ -1,0 +1,26 @@
+.lform {
+	margin-top: 8%;
+}
+h1 {
+	font-weight: bolder;
+	color: #005099;
+	text-shadow: -1px -1px 0 black, 1px -1px 0 black;
+}
+hr {
+	border: 2px solid #005099;
+	border-radius: 50px;
+}
+input {
+	border: 1px solid skyblue;
+	margin-bottom: 40px;
+}
+button {
+	background-color: #005099;
+	border-radius: 20px;
+}
+button:hover {
+	background-color: #087ae4;
+}
+a {
+	color: #005099;
+}
